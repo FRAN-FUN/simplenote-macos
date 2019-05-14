@@ -44,7 +44,7 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   Automattic-Tracks-iOS:
-    :commit: 8a993accaf727c506270abea1ab40942ce5ff83a
+    :commit: 9013e6ab5fd5f26d1f38bc01117cbfc39733c6d9
     :git: https://github.com/Automattic/Automattic-Tracks-iOS.git
 
 SPEC CHECKSUMS:
